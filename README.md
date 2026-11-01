@@ -1,4 +1,4 @@
-# Hi There, I'm Ashok:
+# Hi There, I'm Ashok
 🚀 AWS DevOps Engineer with 4 years of experience in cloud infrastructure and automation.<br>☁️ Experienced in AWS services including EC2, EKS, RDS, S3, and IAM.<br>🔧 Skilled in building and optimizing CI/CD pipelines using Jenkins and Git.<br>🐳 Experienced in Docker containerization and Kubernetes orchestration.<br>⚙️ Proficient in Terraform and Ansible for Infrastructure as Code (IaC) and configuration management.<br>🔐 Passionate about implementing DevSecOps practices.
 
 
