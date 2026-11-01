@@ -7,7 +7,10 @@
 
 ## 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=AWS,Jenkins, Terraform,Docker,Kubernetes,GitHub,Github Actions,python,Ansible,Shellscript&perline=10" />
+<p align="left">
+<img src="https://skillicons.dev/icons=AWS,Jenkins,Terraform,Docker,Kubernetes,GitHub,Github Actions,
+  Python,Ansible,Shellscript&perline=9" />
+  </p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ashokkumarkarri09&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false)<br/>
