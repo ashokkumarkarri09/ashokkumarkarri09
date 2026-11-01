@@ -8,8 +8,8 @@
 ## 💻 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons=AWS,Jenkins,Terraform,Docker,Kubernetes,GitHub,Github Actions,
-  Python,Ansible,Shellscript&perline=9" />
+<img src="https://skillicons.dev/icons?i=AWS,Jenkins,Terraform,Docker,Kubernetes,GitHub,
+  Python,Ansible&perline=8" />
   </p>
 
 # 📊 GitHub Stats:
